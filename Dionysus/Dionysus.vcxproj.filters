@@ -11,8 +11,10 @@
     <ClInclude Include="src\Dionysus\Core.h" />
     <ClInclude Include="src\Dionysus\EntryPoint.h" />
     <ClInclude Include="src\Dionysus.h" />
+    <ClInclude Include="src\Dionysus\Log.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Dionysus\Application.cpp" />
+    <ClCompile Include="src\Dionysus\Log.cpp" />
   </ItemGroup>
 </Project>
