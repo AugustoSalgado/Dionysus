@@ -1,0 +1,3 @@
+[submodule "Dionysus/vendor/spdlog"]
+	path = Dionysus/vendor/spdlog
+	url = https://github.com/gabime/spdlog
